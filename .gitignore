@@ -1,1 +1,3 @@
 .gitignore
+.ipynb_checkpoints
+/Worksheets/.ipynb_checkpoints/Class Setup-checkpoint.ipynb
