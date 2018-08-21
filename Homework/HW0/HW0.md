@@ -8,7 +8,7 @@ You will maintain two remote repositories:
 
 - one for private communications with me (which will have the same name as your git id). This is **only accessible to you, me, and Andrew**.
 
-## Due **Thursday 8/23**
+## Due **Tuesday 8/28**
 
 0. Sign up for a github account, if you don’t already have one, at: https://github.com
 
