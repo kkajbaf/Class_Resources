@@ -2,7 +2,7 @@
 
 Here, you will write a simple python program. Note that this one can be ugly if necessary, but it has to be correct. We will modify this in later homework.
 
-**Assigned:** 24 September
+**Assigned:** 4 September
 
 **Due:** 11 September (Class 7)
 
