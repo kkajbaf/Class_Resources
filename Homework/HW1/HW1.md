@@ -4,7 +4,7 @@ In this assignment gives you will practice bash commands and redirection
 
 **Assigned:** 24 September
 
-**Due:** 4 September (Class 5)
+**Due:** 6 September (Class 6)
 
 ## Remember
 
@@ -13,6 +13,9 @@ Remember, you can look at the markdown code for these homework assignments as ex
 See the *Class_Preparation* folder for how to prepare for classes.
 
 ## Practice Unix Commands and bash scripting
+
+For this assignment, you will use *cp*, *ls*, *mkdir*, redirection (*\>* and *\>\>*), pipe (|) *echo*, *grep*, *wc*, and *tail*. 
+You will also use the usual *git* mechanisms to finalize your homework (via commit), and to submit it (via sync).
 
 0. Use a *working_on_it* branch in your private homework repo
 
