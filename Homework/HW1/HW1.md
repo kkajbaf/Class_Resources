@@ -2,7 +2,7 @@
 
 In this assignment gives you will practice bash commands and redirection
 
-**Assigned:** 24 September
+**Assigned:** 30 August
 
 **Due:** 6 September (Class 6)
 
