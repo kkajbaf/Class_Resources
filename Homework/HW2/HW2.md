@@ -2,9 +2,9 @@
 
 Here, you will write a simple python program. Note that this one can be ugly if necessary, but it has to be correct. We will modify this in later homework.
 
-**Assigned:** 4 September
+**Assigned:** 4 September, lecture 5
 
-**Due:** 11 September (Class 7)
+**Due:** 13 September (Class 8)
 
 Please put all your work in a directory named *HW2* on your private repo, so we can keep the different homework solutions separated.
 

@@ -1,8 +1,8 @@
 # HW 4 nucleotide ambiguity codes
 
-**Assigned:** 13 September, Class 8
+**Assigned:** 4 September, Class 5
 
-**Due:** 25 September, Class 11
+**Due:** 27 September, Class 12
 
 Fill in *HW_4.ipynb* and turn it in. 
 Your turned-in copy should **only** have the stuff that the worksheet asks for. 
