@@ -29,4 +29,10 @@ Remember: in your readings it will help to try out the things you read about on 
 ## Grading
 We will grade your homework by the accuracy of the contents of the worksheety.
 
-For this assignment, we will grade on a three point scale: 0 if you don't do it, 1 if you do it but the output is incorrect, 4 if the output is correct (corresponds loosely to F, D, A). 
+grade | if
+----- | :---------
+0     | you don't turn in anything (in the *master* branch of *HW6* in your private repo)
+1     | you turn in something but it isn't correct
+2     | you turn in something, some is correct but some isn't
+3     | All of your code is correct, but it violates proper style, or has poor/missing comments
+4     | what you turned in is correct, stylish, and complete
